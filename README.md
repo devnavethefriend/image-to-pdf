@@ -20,3 +20,6 @@ Requirements
 
 Output
 - All uploaded images are stored temporarily and cleaned up after PDF generation. The generated PDF is saved in the output/ folder and offered as a downloadable file.
+
+Screenshot
+![image](https://github.com/user-attachments/assets/1864d6b2-4758-4919-b1e4-04356a5f7c5b)
